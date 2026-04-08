@@ -24,7 +24,7 @@ Materiais de aula do professor Berg Dantas.
     </tr>
     <tr>
         <td>25/03</td>
-        <td><p>Estruturas sequenciais e o scratch.</p><p><a href="https://scratch.mit.edu">Link do Scratch</a></p></td>
+        <td><p>Estruturas sequenciais.</p><p><a href="https://scratch.mit.edu">Link do Scratch</a></p></td>
     </tr>
     <tr>
         <td>01/04</td>
@@ -53,3 +53,10 @@ Materiais de aula do professor Berg Dantas.
 </table>
 
 ## Referências
+CARVALHO, Flávia Pereira de. Apostila de lógica de programação: algoritmos. Disponível em:
+<https://fit.faccat.br/~fpereira/apostilas/apostila_algoritmos_mar2007.pdf>. Acesso em: 6 nov. 2025.
+
+ SOUSA, João Nunes de. Lógica para ciência da computação: uma introdução concisa. 2ª ed. Rio de Janeiro: Elsevier, 2008.
+
+## Outros materiais úteis
+<p><a href="https://mundi.ifsul.edu.br/portal/introducao-a-logica-de-programacao.php">Curso de lógica de programação do IFSul</a></p>
