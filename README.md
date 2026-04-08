@@ -56,7 +56,7 @@ Materiais de aula do professor Berg Dantas.
 CARVALHO, Flávia Pereira de. Apostila de lógica de programação: algoritmos. Disponível em:
 <https://fit.faccat.br/~fpereira/apostilas/apostila_algoritmos_mar2007.pdf>. Acesso em: 6 nov. 2025.
 
- SOUSA, João Nunes de. Lógica para ciência da computação: uma introdução concisa. 2ª ed. Rio de Janeiro: Elsevier, 2008.
+SOUSA, João Nunes de. Lógica para ciência da computação: uma introdução concisa. 2ª ed. Rio de Janeiro: Elsevier, 2008.
 
 ## Outros materiais úteis
 <p><a href="https://mundi.ifsul.edu.br/portal/introducao-a-logica-de-programacao.php">Curso de lógica de programação do IFSul</a></p>
