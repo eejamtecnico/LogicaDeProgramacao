@@ -31,24 +31,11 @@ Materiais de aula do professor Berg Dantas.
         <td>Feriado.</td>
     </tr>
      <tr>
-        <td>08/04</td>
+        <td>08/04 até 29/04</td>
         <td>Atividade no scratch.</td>
     </tr>
-    <tr>
-        <td>15/04</td>
-        <td>Variáveis e tipos de dados.</td>
-    </tr>
-    <tr>
-        <td>22/04</td>
-        <td>Operadores.</td>
-    </tr>
-    <tr>
-        <td>29/04</td>
-        <td>Apresentação da atividade.</td>
-    </tr>
-    <tr>
         <td>06/05</td>
-        <td>Resultados do primeiro bimestre.</td>
+        <td>Apresentação da atividade.</td>
     </tr>
 </table>
 
