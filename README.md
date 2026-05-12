@@ -39,6 +39,8 @@ Materiais de aula do professor Berg Dantas.
     </tr>
 </table>
 
+Temas da prova de reposição: Conceito de algoritmo, aplicações de algoritmo, ordem de execução de instruções e entrada/processamento/saída de dados.
+
 ## Referências
 CARVALHO, Flávia Pereira de. Apostila de lógica de programação: algoritmos. Disponível em:
 <https://fit.faccat.br/~fpereira/apostilas/apostila_algoritmos_mar2007.pdf>. Acesso em: 6 nov. 2025.
