@@ -11,32 +11,30 @@ Materiais de aula do professor Berg Dantas.
         <th>Tema</th>
     </tr>
     <tr>
-        <td>04/03</td>
-        <td>Sem aula no contraturno.</td>
+        <td>20/05</td>
+        <td>Introdução à lógica de programação: O que é lógica, algoritmos no cotidiano, relação com o computador.</td>
     </tr>
     <tr>
-        <td>11/03</td>
-        <td>Sem aula no contraturno.</td>
+        <td></td>
+        <td>Pilares do pensamento computacional: Decomposição, abstração, padrões e algoritmos com atividades desplugadas.</td>
     </tr>
     <tr>
-        <td>18/03</td>
-        <td><a href="https://www.canva.com/design/DAHES-qKxyI/SyhjFYXLIupTsBxPnJGaEQ/edit?utm_content=DAHES-qKxyI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Introdução à lógica de programação.</a></td>
+        <td></td>
+        <td>Representação de algoritmos: Pseudocódigo, fluxogramas e linguagem natural estruturada.</td>
     </tr>
     <tr>
-        <td>25/03</td>
-        <td><p>Estruturas sequenciais.</p><p><a href="https://scratch.mit.edu">Link do Scratch</a></p></td>
+        <td></td>
+        <td>Variáveis e tipos de dados: Conceito de variável, tipos básicos (inteiro, real, texto, lógico)</td>
     </tr>
-    <tr>
-        <td>01/04</td>
-        <td>Feriado.</td>
+        <tr>
+        <td></td>
+        <td>Operadores e expressões: Aritméticos, relacionais e lógicos; precedência de operadores</td>
     </tr>
-     <tr>
-        <td>08/04 até 29/04</td>
-        <td>Atividade no scratch.</td>
+        <tr>
+        <td></td>
+        <td>Estrutura condicional simples e composta: SE/SE NÃO, SE NÃO/SE e CASO: tomada de decisão em problemas reais</td>
     </tr>
-        <td>06/05</td>
-        <td>Apresentação da atividade.</td>
-    </tr>
+
 </table>
 
 ## Referências
