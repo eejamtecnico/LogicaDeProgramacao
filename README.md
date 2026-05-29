@@ -15,7 +15,7 @@ Materiais de aula do professor Berg Dantas.
         <td>Introdução à lógica de programação: O que é lógica, algoritmos no cotidiano, relação com o computador.</td>
     </tr>
     <tr>
-        <td></td>
+        <td>28/05 até 18/06</td>
         <td>Pilares do pensamento computacional: Decomposição, abstração, padrões e algoritmos com atividades desplugadas.</td>
     </tr>
     <tr>
