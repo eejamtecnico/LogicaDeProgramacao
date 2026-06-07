@@ -112,7 +112,47 @@ Materiais de aula do professor Berg Dantas.
     </tr>
 </table>
 
+## Competências
+
+### Primeiro bimestre
+
+<ul>
+    <li>Compreender o conceito de lógica de programação, reconhecendo sua presença no cotidiano e sua relação com o funcionamento dos computadores.</li>
+    <li>Entender e aplicar o conceito de algoritmo, identificando sequências lógicas de passos para a resolução de problemas do dia a dia.</li>
+    <li>Desenvolver e aplicar algoritmos em diferentes contextos, exercitando a criação de soluções estruturadas para problemas variados.</li>
+    <li>Compreender a ordem de execução de instruções, reconhecendo a importância da sequência lógica na construção de algoritmos corretos.</li>
+    <li>Implementar soluções simples utilizando o Scratch, traduzindo raciocínios lógicos em blocos de programação visual.</li>
+    <li>Identificar e aplicar o fluxo entrada, processamento e saída de dados, compreendendo como um programa recebe, trata e apresenta informações.</li>
+    <li>Reconhecer e aplicar os quatro pilares do pensamento computacional (decomposição, abstração, reconhecimento de padrões e algoritmos) por meio de atividades desplugadas.</li>
+</ul>
+
+### Segundo bimestre
+
+<ul>
+    <li>Consolidar os pilares do pensamento computacional, aprofundando sua aplicação em atividades desplugadas e situações-problema de maior complexidade.</li>
+    <li>Representar algoritmos em diferentes formas, utilizando pseudocódigo, fluxogramas e linguagem natural estruturada como ferramentas de planejamento e comunicação de soluções.</li>
+    <li>Compreender e utilizar variáveis e tipos de dados, distinguindo os tipos básicos (inteiro, real, texto e lógico) e aplicando-os adequadamente na construção de algoritmos.</li>
+    <li>Aplicar operadores e expressões aritméticas, relacionais e lógicas, respeitando a precedência dos operadores na resolução de problemas computacionais.</li>
+    <li>Implementar estruturas condicionais simples e compostas (SE/SE NÃO, SE NÃO/SE e CASO), tomando decisões lógicas em situações do mundo real.</li>
+</ul>
+
+### Terceiro bimestre
+
+<ul>
+    <li>Implementar estruturas condicionais em uma linguagem de programação, transpondo os conceitos de algoritmo para um ambiente de programação real.</li>
+    <li>Compreender e aplicar estruturas de repetição (ENQUANTO, REPITA ATÉ e PARA), automatizando processos e resolvendo problemas que exigem execução repetida de instruções.</li>
+    <li>Implementar estruturas de repetição em uma linguagem de programação, consolidando o domínio do controle de fluxo em um contexto prático de desenvolvimento.</li>
+</ul>
+
+### Quarto bimestre
+
+<ul>
+    <li>Compreender e utilizar vetores e matrizes, armazenando e manipulando conjuntos de dados de forma organizada e eficiente dentro de algoritmos.</li>
+    <li>Criar e utilizar funções, compreendendo os conceitos de definição, passagem de parâmetros, retorno de valores e reutilização de código como estratégia de organização e modularização de programas.</li>
+</ul>
+
 ## Referências
+
 CARVALHO, Flávia Pereira de. Apostila de lógica de programação: algoritmos. Disponível em:
 <https://fit.faccat.br/~fpereira/apostilas/apostila_algoritmos_mar2007.pdf>. Acesso em: 6 nov. 2025.
 
